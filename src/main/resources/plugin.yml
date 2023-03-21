@@ -1,0 +1,4 @@
+name: mod_gpt
+version: '${project.version}'
+main: io.asurin.mod_gpt.Mod_gpt
+api-version: 1.18
