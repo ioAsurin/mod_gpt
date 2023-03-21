@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: io.asurin.mod_gpt.Mod_gpt
+
