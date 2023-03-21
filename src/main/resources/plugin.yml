@@ -1,4 +1,9 @@
 name: mod_gpt
-version: '${project.version}'
+version: 0.9
 main: io.asurin.mod_gpt.Mod_gpt
-api-version: 1.18
+api-version: 1.17
+author: Ganga Lakshmi with AthliL
+commands:
+  gpt:
+    description: use chatGPT
+    usage: /gpt [message]
