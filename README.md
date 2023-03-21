@@ -34,19 +34,3 @@ This is a Minecraft plugin that, when you type /gpt hogehoge in-game, it will co
 3.Change the API key and endpoint in the config.yml file located in plugins/mod_gpt.
 
 4.Start or reload the server.
-
-
-
-
-[DE][Spigot] Unfertig
-
-Dies ist ein Minecraft-Plugin, bei dem, wenn Sie /gpt hogehoge im Spiel eingeben, ChatGPT konsultiert wird, um hogehoge für Sie zu bauen.
-
-...Wie man es nach dem Bauen verwendet...
-
-1.Platzieren Sie die .jar-Datei im plugins-Ordner.
-
-2.Starten oder laden Sie den Server neu.
-Ändern Sie den API-Schlüssel und den Endpunkt in der config.yml-Datei, die sich im plugins/mod_gpt befindet.
-
-3.Starten oder laden Sie den Server neu.
